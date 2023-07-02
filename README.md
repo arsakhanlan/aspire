@@ -26,8 +26,8 @@ The Aspire Mini Project is a simplified loan application system built with Sprin
 * Java 8 or higher
 * Maven
 ## Installation
-1. Clone the repository: git clone https://github.com/your-username/aspire-mini-project.git
-2. Navigate to the project directory: cd aspire-mini-project
+1. Clone the repository: git clone https://github.com/arsakhanlan/aspire.git
+2. Navigate to the project directory: cd mini
 3. Build the project: mvn clean install
 4. Run the application: mvn spring-boot:run
 5. The application will start running on http://localhost:8080.
