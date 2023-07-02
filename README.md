@@ -14,7 +14,7 @@ The Aspire Mini Project is a simplified loan application system built with Sprin
 
 ## Tech Stack
 
-* Java 8
+* Java 11
 * Spring Boot
 * Hibernate ORM
 * H2 Database
@@ -23,7 +23,7 @@ The Aspire Mini Project is a simplified loan application system built with Sprin
 
 # Getting Started
 ## Prerequisites
-* Java 8 or higher
+* Java 11 or higher
 * Maven
 ## Installation
 1. Clone the repository: git clone https://github.com/arsakhanlan/aspire.git
