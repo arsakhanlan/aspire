@@ -32,3 +32,12 @@ The Aspire Mini Project is a simplified loan application system built with Sprin
 4. Run the application: mvn spring-boot:run
 5. The application will start running on http://localhost:8080.
 
+# Docker Installation
+## Prerequisite
+* Docker daemon installed and running.
+
+## Installation
+1. Run the command docker run -p 8080:8080 ghcr.io/arsakhanlan/aspire-docker:latest in terminal.
+2. The application will start running on http://localhost:8080.
+
+
